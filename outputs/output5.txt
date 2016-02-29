@@ -1,0 +1,13 @@
+
++------------------------+-------------+-------------------------+
+| dname                  | AVG (S.age) | MAX(S.age) - MIN(S.age) |
++------------------------+-------------+-------------------------+
+| Chemical Engineering   |     27.1429 |                      29 |
+| Civil Engineering      |     28.1724 |                      80 |
+| Computer Sciences      |     27.1228 |                      84 |
+| Industrial Engineering |     23.7778 |                      29 |
+| Mathematics            |     29.2778 |                      62 |
+| Sanitary Engineering   |     23.0000 |                       0 |
++------------------------+-------------+-------------------------+
+6 rows in set (0.45 sec)
+

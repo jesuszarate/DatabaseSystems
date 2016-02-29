@@ -1,1 +1,5 @@
-Select * from major;
+SELECT S.sname
+FROM section Sc, enroll E, student S
+WHERE Sc.cno = E.cno 
+AND S.sid=E.sid
+AND Sc.pname = 'Robinson, T.';

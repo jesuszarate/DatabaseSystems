@@ -1,0 +1,23 @@
++-------------------+
+| sname             |
++-------------------+
+| Sulfate, Barry M. |
+| Cheong, R.        |
+| Thorton, James Q. |
+| Gooch             |
+| Smith, L.         |
+| Ford, Gerald      |
+| Austin, G.        |
+| Mathews, John W.  |
+| Dunbar, D.        |
+| Rosemeyer, S.     |
+| Atny, Mary H.     |
+| Glitch, R.        |
+| Ziebart, F.       |
+| Zappa, F.         |
+| Ghandi, I.        |
+| Uoiea, Z.         |
+| Davis, Scott P.   |
+| Bates, Michael L. |
++-------------------+
+18 rows in set (0.13)
