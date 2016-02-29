@@ -1,2 +1,6 @@
-SELECT MAX(S.age) 
-from student S
+SELECT S.age
+FROM student S
+WHERE S.age = 
+(SELECT MAX(S2.age)
+FROM student S2)
+
