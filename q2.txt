@@ -1,1 +1,3 @@
-Select * from major;
+SELECT S.sname, S.gpa
+FROM student S, enroll E 
+WHERE S.sid=E.sid AND E.cno=302;

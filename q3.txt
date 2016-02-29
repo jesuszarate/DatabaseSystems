@@ -1,1 +1,6 @@
-Select * from major;
+SELECT S.sname, C.dname
+FROM student S, course C
+WHERE C.cno IN (
+      SELECT C.cno
+      FROM course C
+      WHERE C.cname LIKE '%Advanced%');

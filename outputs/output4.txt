@@ -1,0 +1,57 @@
++----------------------+
+| sname                |
++----------------------+
+| Pierson, E.          |
+| Scott, Kim J.        |
+| Sather, Roberto B.   |
+| Stanley, Leotha T.   |
+| Jones, David S.      |
+| Paul, Mary W.        |
+| Soong, V.            |
+| Kellerman, S.        |
+| Alsberg, David J.    |
+| Korpel, E.           |
+| Surk, K.             |
+| Emile, R.            |
+| Carter, Jimmy        |
+| Kissinger, Henry     |
+| Baker, C.            |
+| Andrews, R.          |
+| Chao, Tsechih        |
+| Auen, B.             |
+| Shoemaker, A.        |
+| Fisher, C.           |
+| Trude, T.            |
+| Ksar, J.             |
+| Moeri, S.            |
+| Micheal, Zadicki T.  |
+| Jetplane, Leaving O. |
+| Fy, Clara I.         |
+| Hiemerschmitz, A.    |
+| Kennedy, Ed          |
+| Moses, A.            |
+| Kool, Joseph F.      |
+| Fred, Edwin B.       |
+| Altenhaus, Gloria    |
+| Crist, J.            |
+| Heilskov, G.         |
+| Mark, B.             |
+| Barnes, J.           |
+| Jones, A.            |
+| Paull, Thomas H.     |
+| Connors, Jimmy       |
+| News, Nightly        |
+| Jones, Ivan L.       |
+| Smith, R.            |
+| Gonring, J.          |
+| Mueller, D.          |
+| Longlastname, A.     |
+| Zappa, F.            |
+| Kirk, J.             |
+| Jones, J.            |
+| Gringo, C.           |
+| Kaisler, Janet M.    |
+| Baskett, Wayse T.    |
++----------------------+
+51 rows in set (0.07 sec
+

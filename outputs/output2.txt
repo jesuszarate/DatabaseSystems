@@ -1,0 +1,22 @@
++--------------------+------+
+| sname              | gpa  |
++--------------------+------+
+| Pierson, E.        |  3.5 |
+| Scott, Kim J.      |  3.8 |
+| Sather, Roberto B. |  2.2 |
+| Stanley, Leotha T. |  3.6 |
+| Jones, David S.    |  3.5 |
+| Paul, Mary W.      |  3.6 |
+| Soong, V.          |  3.5 |
+| Kellerman, S.      |  2.9 |
+| Korpel, E.         |  3.5 |
+| Emile, R.          |    2 |
+| Carter, Jimmy      |  3.5 |
+| Kissinger, Henry   |  3.4 |
+| Andrews, R.        |  2.8 |
+| Auen, B.           |  2.7 |
+| Shoemaker, A.      |  3.5 |
+| Fy, Clara I.       |    2 |
+| Heilskov, G.       |  2.5 |
+| Baskett, Wayse T.  |  2.1 |
++--------------------+------+

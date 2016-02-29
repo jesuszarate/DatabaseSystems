@@ -1,0 +1,212 @@
++----------------------+----------------------+
+| sname                | dname                |
++----------------------+----------------------+
+| Jacobs, T.           | Civil Engineering    |
+| Jacobs, T.           | Sanitary Engineering |
+| Pierson, E.          | Civil Engineering    |
+| Pierson, E.          | Sanitary Engineering |
+| Zeene, Ben N.        | Civil Engineering    |
+| Zeene, Ben N.        | Sanitary Engineering |
+| Sulfate, Barry M.    | Civil Engineering    |
+| Sulfate, Barry M.    | Sanitary Engineering |
+| Form, Clara O.       | Civil Engineering    |
+| Form, Clara O.       | Sanitary Engineering |
+| Scott, Kim J.        | Civil Engineering    |
+| Scott, Kim J.        | Sanitary Engineering |
+| Sather, Roberto B.   | Civil Engineering    |
+| Sather, Roberto B.   | Sanitary Engineering |
+| Stanley, Leotha T.   | Civil Engineering    |
+| Stanley, Leotha T.   | Sanitary Engineering |
+| Smith, Joyce A.      | Civil Engineering    |
+| Smith, Joyce A.      | Sanitary Engineering |
+| Jones, David S.      | Civil Engineering    |
+| Jones, David S.      | Sanitary Engineering |
+| Paul, Mary W.        | Civil Engineering    |
+| Paul, Mary W.        | Sanitary Engineering |
+| Soong, V.            | Civil Engineering    |
+| Soong, V.            | Sanitary Engineering |
+| Kellerman, S.        | Civil Engineering    |
+| Kellerman, S.        | Sanitary Engineering |
+| Cheong, R.           | Civil Engineering    |
+| Cheong, R.           | Sanitary Engineering |
+| Borchart, Sandra L.  | Civil Engineering    |
+| Borchart, Sandra L.  | Sanitary Engineering |
+| Alsberg, David J.    | Civil Engineering    |
+| Alsberg, David J.    | Sanitary Engineering |
+| Thorton, James Q.    | Civil Engineering    |
+| Thorton, James Q.    | Sanitary Engineering |
+| Gooch                | Civil Engineering    |
+| Gooch                | Sanitary Engineering |
+| Smith, L.            | Civil Engineering    |
+| Smith, L.            | Sanitary Engineering |
+| Korpel, E.           | Civil Engineering    |
+| Korpel, E.           | Sanitary Engineering |
+| Surk, K.             | Civil Engineering    |
+| Surk, K.             | Sanitary Engineering |
+| Emile, R.            | Civil Engineering    |
+| Emile, R.            | Sanitary Engineering |
+| Bomber, C.           | Civil Engineering    |
+| Bomber, C.           | Sanitary Engineering |
+| Carter, Jimmy        | Civil Engineering    |
+| Carter, Jimmy        | Sanitary Engineering |
+| Kissinger, Henry     | Civil Engineering    |
+| Kissinger, Henry     | Sanitary Engineering |
+| Ford, Gerald         | Civil Engineering    |
+| Ford, Gerald         | Sanitary Engineering |
+| Anderson, P.         | Civil Engineering    |
+| Anderson, P.         | Sanitary Engineering |
+| Austin, G.           | Civil Engineering    |
+| Austin, G.           | Sanitary Engineering |
+| Hamilton, S.         | Civil Engineering    |
+| Hamilton, S.         | Sanitary Engineering |
+| Baker, C.            | Civil Engineering    |
+| Baker, C.            | Sanitary Engineering |
+| Andrews, R.          | Civil Engineering    |
+| Andrews, R.          | Sanitary Engineering |
+| Liu, Huihusan        | Civil Engineering    |
+| Liu, Huihusan        | Sanitary Engineering |
+| Chao, Tsechih        | Civil Engineering    |
+| Chao, Tsechih        | Sanitary Engineering |
+| Kasten, Norman L.    | Civil Engineering    |
+| Kasten, Norman L.    | Sanitary Engineering |
+| Mathews, John W.     | Civil Engineering    |
+| Mathews, John W.     | Sanitary Engineering |
+| Burroughs, Susan S.  | Civil Engineering    |
+| Burroughs, Susan S.  | Sanitary Engineering |
+| Dunbar, D.           | Civil Engineering    |
+| Dunbar, D.           | Sanitary Engineering |
+| Auen, B.             | Civil Engineering    |
+| Auen, B.             | Sanitary Engineering |
+| Shoemaker, A.        | Civil Engineering    |
+| Shoemaker, A.        | Sanitary Engineering |
+| Rosemeyer, S.        | Civil Engineering    |
+| Rosemeyer, S.        | Sanitary Engineering |
+| Fisher, C.           | Civil Engineering    |
+| Fisher, C.           | Sanitary Engineering |
+| Trude, T.            | Civil Engineering    |
+| Trude, T.            | Sanitary Engineering |
+| Ksar, J.             | Civil Engineering    |
+| Ksar, J.             | Sanitary Engineering |
+| Moeri, S.            | Civil Engineering    |
+| Moeri, S.            | Sanitary Engineering |
+| June, Granson        | Civil Engineering    |
+| June, Granson        | Sanitary Engineering |
+| Micheal, Zadicki T.  | Civil Engineering    |
+| Micheal, Zadicki T.  | Sanitary Engineering |
+| Roger, Blotter N.    | Civil Engineering    |
+| Roger, Blotter N.    | Sanitary Engineering |
+| Natividad, A.        | Civil Engineering    |
+| Natividad, A.        | Sanitary Engineering |
+| Villa-lobos, M.      | Civil Engineering    |
+| Villa-lobos, M.      | Sanitary Engineering |
+| Moomchi, B.          | Civil Engineering    |
+| Moomchi, B.          | Sanitary Engineering |
+| Jetplane, Leaving O. | Civil Engineering    |
+| Jetplane, Leaving O. | Sanitary Engineering |
+| Fy, Clara I.         | Civil Engineering    |
+| Fy, Clara I.         | Sanitary Engineering |
+| Atny, Mary H.        | Civil Engineering    |
+| Atny, Mary H.        | Sanitary Engineering |
+| Maximillian          | Civil Engineering    |
+| Maximillian          | Sanitary Engineering |
+| Glitch, R.           | Civil Engineering    |
+| Glitch, R.           | Sanitary Engineering |
+| Starry, J.           | Civil Engineering    |
+| Starry, J.           | Sanitary Engineering |
+| Hiemerschmitz, A.    | Civil Engineering    |
+| Hiemerschmitz, A.    | Sanitary Engineering |
+| Marshmallton         | Civil Engineering    |
+| Marshmallton         | Sanitary Engineering |
+| Ziebart, F.          | Civil Engineering    |
+| Ziebart, F.          | Sanitary Engineering |
+| Calcmity, J.         | Civil Engineering    |
+| Calcmity, J.         | Sanitary Engineering |
+| Kennedy, Ed          | Civil Engineering    |
+| Kennedy, Ed          | Sanitary Engineering |
+| Moses, A.            | Civil Engineering    |
+| Moses, A.            | Sanitary Engineering |
+| Kool, Joseph F.      | Civil Engineering    |
+| Kool, Joseph F.      | Sanitary Engineering |
+| Fred, Edwin B.       | Civil Engineering    |
+| Fred, Edwin B.       | Sanitary Engineering |
+| Ripper, Jack T.      | Civil Engineering    |
+| Ripper, Jack T.      | Sanitary Engineering |
+| Altenhaus, Stuart    | Civil Engineering    |
+| Altenhaus, Stuart    | Sanitary Engineering |
+| Altenhaus, Gloria    | Civil Engineering    |
+| Altenhaus, Gloria    | Sanitary Engineering |
+| Crist, J.            | Civil Engineering    |
+| Crist, J.            | Sanitary Engineering |
+| Heilskov, G.         | Civil Engineering    |
+| Heilskov, G.         | Sanitary Engineering |
+| Caucutt, B.          | Civil Engineering    |
+| Caucutt, B.          | Sanitary Engineering |
+| Mark, B.             | Civil Engineering    |
+| Mark, B.             | Sanitary Engineering |
+| Barnes, J.           | Civil Engineering    |
+| Barnes, J.           | Sanitary Engineering |
+| Quarnty, G.          | Civil Engineering    |
+| Quarnty, G.          | Sanitary Engineering |
+| Andrus, J.           | Civil Engineering    |
+| Andrus, J.           | Sanitary Engineering |
+| Jones, A.            | Civil Engineering    |
+| Jones, A.            | Sanitary Engineering |
+| Zorhoff, C.          | Civil Engineering    |
+| Zorhoff, C.          | Sanitary Engineering |
+| Paull, Thomas H.     | Civil Engineering    |
+| Paull, Thomas H.     | Sanitary Engineering |
+| Cool, J.             | Civil Engineering    |
+| Cool, J.             | Sanitary Engineering |
+| Evert, Chris         | Civil Engineering    |
+| Evert, Chris         | Sanitary Engineering |
+| Connors, Jimmy       | Civil Engineering    |
+| Connors, Jimmy       | Sanitary Engineering |
+| Smith, Ike Z.        | Civil Engineering    |
+| Smith, Ike Z.        | Sanitary Engineering |
+| News, Nightly        | Civil Engineering    |
+| News, Nightly        | Sanitary Engineering |
+| Jones, Ivan L.       | Civil Engineering    |
+| Jones, Ivan L.       | Sanitary Engineering |
+| Smith, R.            | Civil Engineering    |
+| Smith, R.            | Sanitary Engineering |
+| Mayer, N.            | Civil Engineering    |
+| Mayer, N.            | Sanitary Engineering |
+| Gonring, J.          | Civil Engineering    |
+| Gonring, J.          | Sanitary Engineering |
+| Mueller, D.          | Civil Engineering    |
+| Mueller, D.          | Sanitary Engineering |
+| Bates, M.            | Civil Engineering    |
+| Bates, M.            | Sanitary Engineering |
+| Longlastname, A.     | Civil Engineering    |
+| Longlastname, A.     | Sanitary Engineering |
+| Zappa, F.            | Civil Engineering    |
+| Zappa, F.            | Sanitary Engineering |
+| Ghandi, I.           | Civil Engineering    |
+| Ghandi, I.           | Sanitary Engineering |
+| Kirk, J.             | Civil Engineering    |
+| Kirk, J.             | Sanitary Engineering |
+| Andermanthenol, K.   | Civil Engineering    |
+| Andermanthenol, K.   | Sanitary Engineering |
+| Uoiea, Z.            | Civil Engineering    |
+| Uoiea, Z.            | Sanitary Engineering |
+| Grzlbltz, Q.         | Civil Engineering    |
+| Grzlbltz, Q.         | Sanitary Engineering |
+| Birch, M.            | Civil Engineering    |
+| Birch, M.            | Sanitary Engineering |
+| Morgan, D.           | Civil Engineering    |
+| Morgan, D.           | Sanitary Engineering |
+| Taylor, R.           | Civil Engineering    |
+| Taylor, R.           | Sanitary Engineering |
+| Jones, J.            | Civil Engineering    |
+| Jones, J.            | Sanitary Engineering |
+| Gringo, C.           | Civil Engineering    |
+| Gringo, C.           | Sanitary Engineering |
+| Davis, Scott P.      | Civil Engineering    |
+| Davis, Scott P.      | Sanitary Engineering |
+| Bates, Michael L.    | Civil Engineering    |
+| Bates, Michael L.    | Sanitary Engineering |
+| Kaisler, Janet M.    | Civil Engineering    |
+| Kaisler, Janet M.    | Sanitary Engineering |
+| Baskett, Wayse T.    | Civil Engineering    |
+| Baskett, Wayse T.    | Sanitary Engineering |
++----------------------+----------------------+

@@ -1,1 +1,2 @@
-Select * from major;
+SELECT MAX(S.age) 
+from student S

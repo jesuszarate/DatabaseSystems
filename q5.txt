@@ -1,1 +1,5 @@
-Select * from major;
+SELECT E.dname, AVG (S.age)
+FROM student S, enroll E
+WHERE S.sid = E.sid
+GROUP BY E.dname;
+
