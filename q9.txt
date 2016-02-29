@@ -1,1 +1,4 @@
-Select * from major;
+SELECT S.sname, MIN(S.age)
+FROM student S
+WHERE S.year = 2
+GROUP BY S.sname;
