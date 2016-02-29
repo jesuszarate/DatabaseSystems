@@ -1,1 +1,5 @@
-Select * from major;
+SELECT S.sname
+FROM student S
+WHERE S.sid IN (SELECT M.sid
+      FROM major M
+      GROUP BY M.sid HAVING COUNT(*) > 1);
