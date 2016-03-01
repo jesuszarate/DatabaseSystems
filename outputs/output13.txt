@@ -1,0 +1,38 @@
++---------------------+------+
+| sname               | m    |
++---------------------+------+
+| Pierson, E.         |  3.5 |
+| Zeene, Ben N.       |  3.9 |
+| Paul, Mary W.       |  3.6 |
+| Borchart, Sandra L. |  3.9 |
+| Thorton, James Q.   |  2.7 |
+| Carter, Jimmy       |  3.5 |
+| Kissinger, Henry    |  3.4 |
+| Ford, Gerald        |  3.5 |
+| Baker, C.           |  3.5 |
+| Liu, Huihusan       |  3.9 |
+| Chao, Tsechih       |  3.6 |
+| Dunbar, D.          |  3.4 |
+| Natividad, A.       |    4 |
+| Villa-lobos, M.     |  3.7 |
+| Moomchi, B.         |  3.5 |
+| Maximillian         |    3 |
+| Kool, Joseph F.     |  3.7 |
+| Fred, Edwin B.      |    4 |
+| Altenhaus, Gloria   |    4 |
+| Mark, B.            |  3.6 |
+| Barnes, J.          |  2.3 |
+| Quarnty, G.         |    4 |
+| Evert, Chris        |  3.9 |
+| Smith, Ike Z.       |  1.1 |
+| News, Nightly       |  1.9 |
+| Jones, Ivan L.      |  3.5 |
+| Longlastname, A.    |    4 |
+| Zappa, F.           |    4 |
+| Ghandi, I.          |  3.5 |
+| Kirk, J.            |  2.2 |
+| Grzlbltz, Q.        |  2.5 |
+| Morgan, D.          |  3.5 |
+| Davis, Scott P.     |  3.7 |
++---------------------+------+
+33 rows in set (0.52 sec)

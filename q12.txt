@@ -1,1 +1,9 @@
-Select * from major;
+SELECT S.sname, MAX(average.a)
+FROM student S
+join (SELECT E.sid, avg(E.grade) a
+     FROM enroll E
+     WHERE (E.dname = 'Computer Sciences' 
+     OR E.dname = 'Mathematics')
+     GROUP BY E.sid) average
+ON S.sid = average.sid
+GROUP BY S.age;

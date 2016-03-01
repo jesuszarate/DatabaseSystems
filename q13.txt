@@ -1,3 +1,9 @@
-SELECT S.sname, S.age, MAX(S.gpa)
-FROM student S
-GROUP BY S.age;
+SELECT S.sname, max_age.m 
+FROM student S, (
+     SELECT S.age, MAX(S.gpa) m
+     FROM student S
+     GROUP BY S.age) max_age
+WHERE S.age = max_age.age
+AND S.gpa = max_age.m;
+
+

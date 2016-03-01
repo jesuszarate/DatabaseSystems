@@ -1,0 +1,31 @@
++--------------------+----------------+
+| sname              | MAX(average.a) |
++--------------------+----------------+
+| News, Nightly      |            3.5 |
+| Zappa, F.          |            3.5 |
+| Emile, R.          |              4 |
+| Sulfate, Barry M.  |              4 |
+| Scott, Kim J.      |              4 |
+| Stanley, Leotha T. |              4 |
+| Sather, Roberto B. |              4 |
+| Paul, Mary W.      |            3.5 |
+| Soong, V.          |            2.5 |
+| Cheong, R.         |              4 |
+| Gooch              |              4 |
+| Thorton, James Q.  |              3 |
+| Mathews, John W.   |              3 |
+| Dunbar, D.         |              3 |
+| Pierson, E.        |              3 |
+| Kirk, J.           |              4 |
+| Kool, Joseph F.    |            2.5 |
+| Smith, L.          |            3.5 |
+| Barnes, J.         |            3.5 |
+| Kennedy, Ed        |              3 |
+| Carter, Jimmy      |              4 |
+| Kissinger, Henry   |            3.5 |
+| Ford, Gerald       |            3.5 |
+| Ghandi, I.         |              4 |
+| Fred, Edwin B.     |            3.5 |
+| Longlastname, A.   |            3.5 |
++--------------------+----------------+
+26 rows in set (0.58 sec)
