@@ -1,1 +1,3 @@
-Select * from major;
+SELECT S.sname, S.age, MAX(S.gpa)
+FROM student S
+GROUP BY S.age;

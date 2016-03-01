@@ -1,4 +1,7 @@
-SELECT S.sname, MIN(S.age)
+SELECT S.sname, S.age
 FROM student S
-WHERE S.year = 2
-GROUP BY S.sname;
+WHERE S.year = 2 AND S.age = (
+      SELECT MIN(S1.age)
+      FROM student S1
+      WHERE S1.year = 2)
+

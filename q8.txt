@@ -1,16 +1,5 @@
-SELECT S.sname, E.cno
-FROM student S, enroll E
-WHERE S.sid = E.sid
-GROUP BY S.sname;
-
-SELECT
-SELECT S.sname,COUNT(*) AS smthing
+SELECT S.sname, E.sid, COUNT(*)
 FROM student S, enroll E
 WHERE E.sid = S.sid
-GROUP BY S.sname
+GROUP BY S.sid
 
-SELECT B.bid, COUNT(*)AS numres
-FROM Boats B, Reserves R
-WHERE R.bid=B.bid
- AND B.color=‘red’
-GROUP BY B.bid

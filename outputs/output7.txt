@@ -6,4 +6,4 @@
 | Zeene, Ben N.     |
 | Sulfate, Barry M. |
 +-------------------+
-4 rows in set (0.10 sec)
+4 rows in set (0.01 sec)

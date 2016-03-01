@@ -1,52 +1,10 @@
-SELECT S.sid, S.sname, S.gpa
-FROM student S
-WHERE NOT EXISTS 
-      (SELECT B.bid
-       FROM Boats B
-       WHERE NOT EXISTS 
-       	     (SELECT R.bid
-       	      FROM Reserves R
-	      WHERE R.bid=B.bid
-	      AND R.sid=S.sid))
-
-SELECT DISTINCT S.sname
-FROM student S
-WHERE NOT EXISTS (( SELECT *
-      FROM enroll E)
-      EXCEPT
-	(SELECT E1.room
-      	FROM enroll E1
-	WHERE E1.sid = S.sid ))
-
-SELECT DISTINCT F.fname
-FROM Faculty F
-WHERE NOT EXISTS (( SELECT *
-FROM Class C )
-EXCEPT
-(SELECTC1.room
-FROM Class C1
-WHERE C1.fid = F.fid ))
-
-# This one is the working one
 SELECT S.sname
-FROM student S
-WHERE NOT EXISTS
-      (SELECT S.sid
-       FROM enroll E
-       WHERE NOT EXISTS(
-      	    SELECT E.sid
-	    FROM enroll E
-      	    WHERE S.sid = E.sid AND E.dname='Computer Sciences'));
-
-SELECT S.sid, S.sname, E.dname, COUNT(*)
-   FROM student S, enroll E, course C
-   WHERE S.sid = E.sid AND E.dname='Computer Sciences' 
-   AND C.cno = E.cno
-GROUP BY S.sid;
-
-SELECT S.sid, S.sname, E.dname
 FROM student S, enroll E
 WHERE S.sid = E.sid
-      AND E.dname = 'Computer Sciences'
-GROUP BY S.sid
+GROUP BY S.sname, S.sid
+HAVING 
+       COUNT(DISTINCT E.sid) = 
+       		      (SELECT COUNT(*) 
+		       FROM course C 
+		       WHERE C.dname='Computer Sciences')
 
