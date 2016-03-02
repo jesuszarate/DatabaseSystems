@@ -1,5 +1,0 @@
-SELECT S.sname, E.sid, COUNT(*)
-FROM student S, enroll E
-WHERE E.sid = S.sid
-GROUP BY S.sid
-
