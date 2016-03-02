@@ -1,4 +1,4 @@
-SELECT S.sname, MAX(average.a)
+SELECT S.sname, S.age, MAX(average.a) Average
 FROM student S
 join (SELECT E.sid, avg(E.grade) a
      FROM enroll E

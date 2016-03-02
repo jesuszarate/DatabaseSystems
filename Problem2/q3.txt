@@ -1,6 +1,6 @@
-SELECT S.sname, C.dname
-FROM student S, course C
-WHERE C.cno IN (
-      SELECT C.cno
-      FROM course C
-      WHERE C.cname LIKE '%Advanced%');
+SELECT S.sname, C.cname
+FROM enroll E, course C, student S
+WHERE S.sid = E.sid 
+AND C.cno = E.cno 
+AND C.cname LIKE '%Advanced%';
+
